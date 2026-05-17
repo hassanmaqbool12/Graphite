@@ -24,8 +24,8 @@ Graphite is a minimal desktop launcher for quick answers. Type your question, ge
 
 ## Pictures
 
-- [Google AI Studio](https://aistudio.google.com/app/apikey)
-- [Google AI Studio](https://aistudio.google.com/app/apikey)
+- (![ScreenShot](https://github.com/hassanmaqbool12/Graphite/blob/main/Media/Screenshot%20from%202026-05-17%2019-51-07.png))
+- (![ScreenShot](https://github.com/hassanmaqbool12/Graphite/blob/main/Media/Screenshot%20from%202026-05-17%2019-55-48.png))
 
 ## Installation
 
