@@ -22,6 +22,11 @@ Graphite is a minimal desktop launcher for quick answers. Type your question, ge
 
 **Note:** Only tested on X11. Wayland and Hyprland support untested—use at your own risk.
 
+## Pictures
+
+- [Google AI Studio](https://aistudio.google.com/app/apikey)
+- [Google AI Studio](https://aistudio.google.com/app/apikey)
+
 ## Installation
 
 ### From Releases
@@ -49,7 +54,7 @@ k your-api-key-here
 
 Wait for the "API Key Updated" message.
 
-### 2. (Optional) Set Your Language
+### 2. Set Your Language
 
 For translation mode, set a language code:
 
