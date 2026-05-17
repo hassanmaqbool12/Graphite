@@ -1,0 +1,8 @@
+Package: Graphite
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends:python3-gi
+Maintainer: Hassan Maqbool <hassammaqbool12@gmail.com>
+Description: A simple tool to make your life easy and to make you more lazy.

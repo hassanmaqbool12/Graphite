@@ -1,0 +1,61 @@
+#window {
+    padding: 10px;
+}
+
+#query {
+    border-radius: 0px;
+    padding: 10px 6px;
+    min-width: 380px;
+    font-weight: 400;
+    font-size: 15px;
+    background-image: none;
+    box-shadow: none;
+    background-color: transparent;
+    border:0px;
+    border-bottom: 1px solid @theme_selected_base_color;
+}
+
+#logo {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#answer {
+  padding: 15px;
+  background: shade(@theme_bg_color, 0.95);  /* slightly darker */
+  border-radius: 8px;
+  border: 1px solid @borders;
+}
+
+#answer label {
+  font-size: 15px;
+  color: @theme_fg_color;
+}
+
+#G-of-google {
+    border:none;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0px 6px;
+    background-color: @theme_bg_color;
+}
+
+#copy {
+    border:none;
+    padding: 0px 6px;
+    background-color: @theme_bg_color;
+}
+
+button:hover {
+    color:@theme_selected_bg_color;
+}
+
+#error {
+    color:rgb(255, 50, 50);
+    font-weight: 400;
+}
+
+#success {
+    color:rgb(27, 245, 27);
+    font-weight: 400;
+}

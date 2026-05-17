@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Graphite
+Exec=/usr/bin/graphite
+Type=Application
+Categories=GNOME;GTK;Utility;
+Terminal=false
+Icon=/usr/share/icons/cat.svg
+StartupWMClass=graphite
+Keywords=cat;graphite;search
+Comment=Search or Translate
