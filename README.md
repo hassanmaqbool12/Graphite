@@ -6,7 +6,7 @@ Graphite is a minimal desktop launcher for quick answers. Type your question, ge
 
 ## Features
 
-- **Instant Answers** — Get direct responses (We use Google GEMINI for answers, AI responses may include mistakes)
+- **Instant Answers** — Get direct responses (AI responses may include mistakes)
 - **Structured Output** — Answers formatted as What/Why/How for clarity
 - **Quick Translation** — Translate text to your preferred language instantly
 - **Fallback Search** — One-click Google search if you need more details
