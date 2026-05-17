@@ -23,9 +23,13 @@ Graphite is a minimal desktop launcher for quick answers. Type your question, ge
 **Note:** Only tested on X11. Wayland and Hyprland support untested—use at your own risk.
 
 ## Pictures
+- Q/A Demo
+  
+![ScreenShot](https://github.com/hassanmaqbool12/Graphite/blob/main/Media/Screenshot%20from%202026-05-17%2019-51-07.png)
 
-- (![ScreenShot](https://github.com/hassanmaqbool12/Graphite/blob/main/Media/Screenshot%20from%202026-05-17%2019-51-07.png))
-- (![ScreenShot](https://github.com/hassanmaqbool12/Graphite/blob/main/Media/Screenshot%20from%202026-05-17%2019-55-48.png))
+- Translation Demo
+  
+![ScreenShot](https://github.com/hassanmaqbool12/Graphite/blob/main/Media/Screenshot%20from%202026-05-17%2019-55-48.png)
 
 ## Installation
 
