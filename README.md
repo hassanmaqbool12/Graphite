@@ -35,7 +35,7 @@ Graphite is a minimal desktop launcher for quick answers. Type your question, ge
 
 ### From Releases
 
-Download the latest `.deb` from [GitHub Releases](https://github.com/your-username/graphite/releases).
+Download the latest `.deb` from [GitHub Releases](https://github.com/hassanmaqbool12/graphite/releases).
 
 ```bash
 sudo dpkg -i Debian-build-source.deb
@@ -120,7 +120,7 @@ For faster access, bind Graphite to a global keyboard shortcut:
 
 - **Your API key is stored locally** in `config.db`
 - No data is sent to us—only to Google for API calls
-- **Code is open source.** Review it on [GitHub](https://github.com/hassanmaqbool12/graphite/Code) if you have doubts
+- **Code is open source.** Review it on [GitHub]([Code Folder](https://github.com/hassanmaqbool12/Graphite/tree/main/Code)) if you have doubts
 - Shelve database is unencrypted; use a strong API key
 
 ## What It's Good For
@@ -140,7 +140,7 @@ For faster access, bind Graphite to a global keyboard shortcut:
 
 ## Feedback & Issues
 
-Found a bug? Have an idea? [Create an issue on GitHub](https://github.com/your-username/graphite/issues).
+Found a bug? Have an idea? [Create an issue on GitHub](https://github.com/hassanmaqbool12/graphite/issues).
 
 Include:
 - What you were doing
